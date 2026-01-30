@@ -184,11 +184,12 @@ header {
 
 .content-about {
     width: min(90%, 600px);
+    text-align: justify;
 }
 
 .title-about {
     color: #fff;
-    font-size: clamp(2rem, 3vw, 2.7rem);
+    font-size: 2.5rem;
 }
 
 .description-about {
@@ -295,7 +296,7 @@ header {
 
     #about {
         flex-direction: column;
-        text-align: center;
+        text-align: justify;
     }
 
     .content-about {
