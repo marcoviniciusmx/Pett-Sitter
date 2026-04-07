@@ -13,6 +13,10 @@
   <a href="#-getting-started">Como executar</a>
 </p>
 
+<br>
+
+<img src="./assets/Mockup - Bia.png" alt="Mockup Bia Mendes" width="100%">
+
 ---
 
 ## 🏠 About the project
